@@ -2,12 +2,12 @@ hello world1
 hello world2
 hello world3
 hello world4
-hello world5
 hello world6
 
 
 git practice
 
-git practice2
-git practice3
-git practice4
+git pctice2
+it practice3
+gitactice4
+git practice5
