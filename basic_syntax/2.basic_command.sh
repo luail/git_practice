@@ -45,4 +45,4 @@ git checkout 커밋ID
 
 # 가장 최신의 커밋 취소
 git reset head~1
-git reset head^
+git reset head^1
