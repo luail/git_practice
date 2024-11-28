@@ -7,3 +7,6 @@ hello world6
 
 
 git practice
+
+git practice2
+git practice3
