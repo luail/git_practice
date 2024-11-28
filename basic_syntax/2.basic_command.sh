@@ -43,7 +43,6 @@ git checkout 커밋ID
 
 # working directory작업 및 staging area에서의 취소는 UI로 대체
 
-# 가장 최신의 커밋 취소 : working directory changes까지로 reset
-# 커밋하고 커밋 취소할때 사용
+# 가장 최신의 커밋 취소
 git reset head~1
 git reset head^
