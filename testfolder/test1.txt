@@ -17,28 +17,3 @@ git branch feat1 fix
 test test2 test3
 Emargency~
 
-do test
-doing test test
-do test2
-do test3
-
-do test4
-
-do test5
-
-
-do test6
-
-do test7
-
-
-do test9
-do test8
-
-doing test10
-
-
-do test12
-
-do test 11
-
