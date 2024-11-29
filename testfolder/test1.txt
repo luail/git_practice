@@ -15,5 +15,3 @@ git practice4
 git branch feat1 fix
 
 test test2 test3
-Emargency~
-
